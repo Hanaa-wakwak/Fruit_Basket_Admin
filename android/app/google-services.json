@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "155930246180",
+    "project_id": "grocery-73e02",
+    "storage_bucket": "grocery-73e02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155930246180:android:52e9d15e1574a2add0acb1",
+        "android_client_info": {
+          "package_name": "com.grocery.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155930246180-08lcca25gvvk3oe28uci050s13j586ui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grocery.admin",
+            "certificate_hash": "bd06584624b0399c8e1aa12d9a9b9bf5b375600a"
+          }
+        },
+        {
+          "client_id": "155930246180-sss103j9s7bd3qi0pgi99aloe7n9o8pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjxkyezPtJr388J3OmvrbD2wjshIgiDwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155930246180-sss103j9s7bd3qi0pgi99aloe7n9o8pv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155930246180:android:9f73c65e09b610c1d0acb1",
+        "android_client_info": {
+          "package_name": "com.grocery.users"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155930246180-b2v3170ih5v1ea76d1d08hggao7dvol0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grocery.users",
+            "certificate_hash": "bd06584624b0399c8e1aa12d9a9b9bf5b375600a"
+          }
+        },
+        {
+          "client_id": "155930246180-msmej552k2o0krf3av1ll68c8176hqca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grocery.users",
+            "certificate_hash": "4520f8202cec91905183f920e6c8c4645c850b4a"
+          }
+        },
+        {
+          "client_id": "155930246180-p9tofgv0r9hchdu9i4r4foupeks3qjdb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grocery.users",
+            "certificate_hash": "ad9ba6d0ee8e90cfc04b4fa14b63721dcb5bb652"
+          }
+        },
+        {
+          "client_id": "155930246180-sss103j9s7bd3qi0pgi99aloe7n9o8pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjxkyezPtJr388J3OmvrbD2wjshIgiDwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155930246180-sss103j9s7bd3qi0pgi99aloe7n9o8pv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
